@@ -1,9 +1,3 @@
-.first {
-    padding: 20px;
-    width: 400px;
-    height: 400px;
-}
-
 .color {
     background-color: #FAAD80;
 }
@@ -11,6 +5,10 @@
 .h1-1 {
     margin-left: 40%;
     font-size: 7rem;
+}
+
+.pad {
+    padding-left: 500px;
 }
 
 @media (max-width: 650px) {}
