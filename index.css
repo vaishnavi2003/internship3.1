@@ -3,3 +3,14 @@
     width: 400px;
     height: 400px;
 }
+
+.color {
+    background-color: #FAAD80;
+}
+
+.h1-1 {
+    margin-left: 40%;
+    font-size: 7rem;
+}
+
+@media (max-width: 650px) {}
